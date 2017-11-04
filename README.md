@@ -46,8 +46,9 @@ display.
 
     **The program will also throw an error and exit immediately if
     JavaFX is not installed on the machine.**
-3. **Download the compiled jar located in the `compiled` folder and run
-the program.**
+3. **Download the compiled jar located in the 
+[releases section](https://github.com/sabihismail/SmartMirror/releases/latest)
+and run it.**
 
 ## Custom Widgets and Apps
 
